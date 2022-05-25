@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Readme Card](https://github-readme.xahidex.com/api/pin/?username=xahidex&repo=github-readme-stats)](https://github.com/xahidex/github-readme-stats)
 
 <!--
 **XahidEx/xahidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
